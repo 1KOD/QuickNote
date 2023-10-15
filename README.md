@@ -9,6 +9,7 @@ Hızlı not alma uygulaması. (Quick note saving app)
 - 21 farklı editor teması.
 - Gelişmiş editör seçenekleri.
 - Gelişmiş arama seçenekleri
+- Embedded Firebird 3.0 Veritabanı Motoru
 
 
 ![1](https://github.com/1KOD/QuickNote/assets/14098860/337aae6f-5d1e-4e6a-a053-9709c4d73285)
