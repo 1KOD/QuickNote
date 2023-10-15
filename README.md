@@ -9,16 +9,15 @@ Hızlı not alma uygulaması. (Quick note saving app)
 - 94 vurgulayıcı seçeneği.
 - 21 farklı editor teması.
 - Gelişmiş editör seçenekleri.
-- Gelişmiş arama seçenekleri
+- Gelişmiş arama seçenekleri.
 
-![1](https://github.com/1KOD/QuickNote/assets/14098860/337aae6f-5d1e-4e6a-a053-9709c4d73285)
+![1](https://github.com/1KOD/QuickNote/assets/14098860/c92af23a-4edf-4d5f-b315-606709b017e1)
+![2](https://github.com/1KOD/QuickNote/assets/14098860/5d8f10fc-4921-42d0-8ed4-b6faff383aab)
+![3](https://github.com/1KOD/QuickNote/assets/14098860/1d926176-2f49-4585-a406-6b1cbc518466)
+![4](https://github.com/1KOD/QuickNote/assets/14098860/ea7f216a-e2f8-47a5-b5b5-2246ca249878)
+![5](https://github.com/1KOD/QuickNote/assets/14098860/b63fad00-2fdc-4516-b223-5b6c83cdc131)
+![6](https://github.com/1KOD/QuickNote/assets/14098860/1e0e43d0-e9ac-4ecd-8a9d-7318588c4978)
+![7](https://github.com/1KOD/QuickNote/assets/14098860/be0cb74a-7d8e-4f30-b38a-2aab81a375e5)
+![8](https://github.com/1KOD/QuickNote/assets/14098860/877ebb24-41ab-4a8e-bb37-98c8321f29bc)
+![9](https://github.com/1KOD/QuickNote/assets/14098860/c2b494d9-7e60-457c-85ea-5526595168dd)
 
-![2](https://github.com/1KOD/QuickNote/assets/14098860/66deb6e3-2b48-419d-9ae2-281b7a29fbf4)
-
-![3](https://github.com/1KOD/QuickNote/assets/14098860/ce913160-a509-4d70-a269-31da392d5015)
-
-![4](https://github.com/1KOD/QuickNote/assets/14098860/f4754dcc-bc40-4b5b-a159-5a5c026237d4)
-
-![5](https://github.com/1KOD/QuickNote/assets/14098860/57acac68-347c-4768-8fb8-f5c85a0afb7d)
-
-![6](https://github.com/1KOD/QuickNote/assets/14098860/68bf7596-1ad3-4353-8408-e1af935c1c7c)
