@@ -1,6 +1,9 @@
 # QuickNote
 Hızlı not alma uygulaması. (Quick note saving app)
 
+Bağımlılıklar
+[Microsoft Visual C++ 2010 Redistributable.](https://www.microsoft.com/en-US/download/details.aspx?id=26999 "Microsoft Visual C++ 2010 Redistributable.")
+
 **V1.1 Özellikeri**
 - 94 vurgulayıcı seçeneği.
 - 21 farklı editor teması.
