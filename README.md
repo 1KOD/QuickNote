@@ -15,8 +15,9 @@ Hızlı not alma uygulaması. (Quick note saving app)
 - 21 farklı editör teması.
 - Gelişmiş editör seçenekleri.
 - Gelişmiş arama seçenekleri.
-- Hatırlatma kurma özelliği.
-- Kestirme tuş seçenekleri.
+- Hatırlatıcı kurma özelliği.
+- Kestirme tuş özellikeri.
+- Çoklu monitör desteği.
 
 ![1](https://github.com/1KOD/QuickNote/assets/14098860/c92af23a-4edf-4d5f-b315-606709b017e1)
 ![2](https://github.com/1KOD/QuickNote/assets/14098860/5d8f10fc-4921-42d0-8ed4-b6faff383aab)
