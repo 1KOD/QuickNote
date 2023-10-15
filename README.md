@@ -1,3 +1,4 @@
+![150](https://github.com/1KOD/QuickNote/assets/14098860/df06b93e-0787-4fd5-b22a-7781bf70e86f)
 # QuickNote
 Hızlı not alma uygulaması. (Quick note saving app)
 
