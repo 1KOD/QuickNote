@@ -19,6 +19,14 @@ Hızlı not alma uygulaması. (Quick note saving app)
 - Kestirme tuş özellikeri.
 - Çoklu monitör desteği.
 
+**Sürüm Notları**
+**v1.2**
+- Arama bekleme hızı yükseltildi.
+- Arama pencerelerinin üstte kalma özelliği kapatıldı.
+- Arama kutusuna "Ctrl + BackSpace" özelliği eklendi.
+- Sonuç listesi metin kolon genişliği düzeltildi.
+- Kısa yol öne getirme özelliği düzeltildi.
+
 ![1](https://github.com/1KOD/QuickNote/assets/14098860/c92af23a-4edf-4d5f-b315-606709b017e1)
 ![2](https://github.com/1KOD/QuickNote/assets/14098860/5d8f10fc-4921-42d0-8ed4-b6faff383aab)
 ![3](https://github.com/1KOD/QuickNote/assets/14098860/1d926176-2f49-4585-a406-6b1cbc518466)
@@ -28,12 +36,3 @@ Hızlı not alma uygulaması. (Quick note saving app)
 ![7](https://github.com/1KOD/QuickNote/assets/14098860/be0cb74a-7d8e-4f30-b38a-2aab81a375e5)
 ![8](https://github.com/1KOD/QuickNote/assets/14098860/877ebb24-41ab-4a8e-bb37-98c8321f29bc)
 ![9](https://github.com/1KOD/QuickNote/assets/14098860/c2b494d9-7e60-457c-85ea-5526595168dd)
-
-
-Sürüm Notları
-**v1.2**
-- Arama bekleme hızı yükseltildi.
-- Arama pencerelerinin üstte kalma özelliği kapatıldı.
-- Arama kutusuna "Ctrl + BackSpace" özelliği eklendi.
-- Sonuç listesi metin kolon genişliği düzeltildi.
-- Kısa yol öne getirme özelliği düzeltildi.
