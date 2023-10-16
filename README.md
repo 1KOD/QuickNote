@@ -7,7 +7,7 @@ Hızlı not alma uygulaması. (Quick note saving app)
 
 **İndirme :** 
 [QuickNote v1.1](https://github.com/1KOD/QuickNote/releases/tag/Latest
-"QuickNote v1.1")
+"QuickNote v1.2")
 
 **Genel Özellikeri**
 - Embedded Firebird 3.0 Veritabanı Motoru
@@ -29,3 +29,11 @@ Hızlı not alma uygulaması. (Quick note saving app)
 ![8](https://github.com/1KOD/QuickNote/assets/14098860/877ebb24-41ab-4a8e-bb37-98c8321f29bc)
 ![9](https://github.com/1KOD/QuickNote/assets/14098860/c2b494d9-7e60-457c-85ea-5526595168dd)
 
+
+Sürüm Notları
+**v1.2**
+- Arama bekleme hızı yükseltildi.
+- Arama pencerelerinin üstte kalma özelliği kapatıldı.
+- Arama kutusuna "Ctrl + BackSpace" özelliği eklendi.
+- Sonuç listesi metin kolon genişliği düzeltildi.
+- Kısa yol öne getirme özelliği düzeltildi.
