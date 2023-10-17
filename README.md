@@ -6,8 +6,8 @@ Hızlı not alma uygulaması. (Quick note saving app)
 [Microsoft Visual C++ 2010 Redistributable.](https://www.microsoft.com/en-US/download/details.aspx?id=26999 "Microsoft Visual C++ 2010 Redistributable.")
 
 **İndirme :** 
-[QuickNote v1.2](https://github.com/1KOD/QuickNote/releases/tag/Latest
-"QuickNote v1.2")
+[QuickNote v1.3](https://github.com/1KOD/QuickNote/releases/tag/Latest
+"QuickNote v1.3")
 
 **Genel Özellikeri**
 - Embedded Firebird 3.0 Veritabanı Motoru
@@ -26,6 +26,11 @@ Hızlı not alma uygulaması. (Quick note saving app)
 - Arama kutusuna "Ctrl + BackSpace" özelliği eklendi.
 - Sonuç listesi metin kolon genişliği düzeltildi.
 - Kısa yol öne getirme özelliği düzeltildi.
+
+**Sürüm Notları**
+**v1.3**
+- Varsayılan açılış listesi özelliği eklenmiştir.
+- Not içinde "Ctrl + S" kaydetme özelliği eklenmiştir.
 
 ![1](https://github.com/1KOD/QuickNote/assets/14098860/c92af23a-4edf-4d5f-b315-606709b017e1)
 ![2](https://github.com/1KOD/QuickNote/assets/14098860/5d8f10fc-4921-42d0-8ed4-b6faff383aab)
