@@ -6,8 +6,8 @@ Hızlı not alma uygulaması. (Quick note saving app)
 [Microsoft Visual C++ 2010 Redistributable.](https://www.microsoft.com/en-US/download/details.aspx?id=26999 "Microsoft Visual C++ 2010 Redistributable.")
 
 **İndirme :** 
-[QuickNote v1.3](https://github.com/1KOD/QuickNote/releases/tag/Latest
-"QuickNote v1.3")
+[QuickNote v1.4](https://github.com/1KOD/QuickNote/releases/tag/Latest
+"QuickNote v1.4")
 
 **Genel Özellikeri**
 - Embedded Firebird 3.0 Veritabanı Motoru
