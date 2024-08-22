@@ -7,7 +7,7 @@ Hızlı not alma uygulaması. (Quick note saving app)
 
 **İndirme :** 
 [QuickNote v1.4](https://github.com/1KOD/QuickNote/releases/tag/Latest
-"QuickNote v1.4")
+"QuickNote v1.5")
 
 **Genel Özellikeri**
 - Embedded Firebird 3.0 Veritabanı Motoru
