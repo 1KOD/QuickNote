@@ -10,7 +10,6 @@ Hızlı not alma uygulaması. (Quick note saving app)
 "QuickNote v1.6")
 
 **Genel Özellikeri**
-- Embedded Firebird 3.0 Veritabanı Motoru
 - 94 vurgulayıcı seçeneği.
 - 21 farklı editör teması.
 - Gelişmiş editör seçenekleri.
